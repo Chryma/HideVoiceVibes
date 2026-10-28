@@ -13,7 +13,7 @@ lays out as if vibes didn't exist: no image, no blank gap, no scrolling glitches
 
 ## If it stops working
 
-Discord updates can change the code this plugin hooks into. If you see a "nothing patched" or "couldn't find the vibes code"
+Discord updates can change the code this plugin hooks into. If you see a "couldn't find the vibes experiment"
 toast, open an issue with any red `HideVoiceVibes` lines from the console (Ctrl+Shift+I → Console).
 
 Only affects what you see. Other people still see vibes, and you can still set one yourself from another client.
